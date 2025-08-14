@@ -1,0 +1,13 @@
+References
+
+https://www.youtube.com/watch?v=-tNKkKwSHtY  (Video)
+
+https://www.kaggle.com/datasets/rohanrao/nifty50-stock-market-data/data (Dataset link)
+
+
+Upcoming Additions:
+
+https://youtu.be/NYf2XyS_dxM?t=705
+
+https://github.com/sailyshah/Stock-market-analysis/blob/main/Assignment-stock%20market%20analysis-Saily%20Shah.sql
+
